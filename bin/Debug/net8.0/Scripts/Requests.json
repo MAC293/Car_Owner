@@ -1,0 +1,111 @@
+//Sign up and Login
+
+  {
+  "id": "17961621-1",
+  "fullname": "José Jr.",
+  "age": 32
+  }
+
+  {
+    "id": "17961621-1",
+    "username": "Pelao",
+    "password": "123456"
+  }
+
+  {
+    "id": "18745236-K",
+    "fullname": "Juan",
+    "age": 29
+  }
+
+  {
+    "id": "18745236-K",
+    "username": "Juancho",
+    "password": "789456"
+  }
+  
+//Vehicles
+
+//Pelao
+
+  {
+    "patent": "BR7593",
+    "brand": "Land Rover",
+    "model": "Freelander",
+    "type": "SUV",
+    "year": 2000
+  }
+  
+  {
+    "patent": "FG2389",
+    "brand": "Ferrari",
+    "model": "F40",
+    "type": "Supercar",
+    "year": 1989
+  }
+  
+  {
+    "patent": "INBV89",
+    "brand": "Porsche",
+    "model": "930",
+    "type": "Supercar",
+    "year": 1980
+  }
+  
+  {
+    "patent": "PLNB20",
+    "brand": "Noble",
+    "model": "M600",
+    "type": "Supercar",
+    "year": 2010
+  }
+  
+  {
+    "patent": "VE8934",
+    "brand": "McLaren",
+    "model": "F1",
+    "type": "Supercar",
+    "year": 1997
+  }
+
+  //Juancho
+
+  {
+    "patent": "XC9080",
+    "brand": "Toyota",
+    "model": "Tercel",
+    "type": "Sedan",
+    "year": 1998
+  }
+
+  {
+    "patent": "XXYE92",
+    "brand": "Ford",
+    "model": "Ranger",
+    "type": "Truck",
+    "year": 2000
+  }
+
+  {
+    "patent": "AGXL23",
+    "brand": "Nissa",
+    "model": "Terrano",
+    "type": "Truck",
+    "year": 2005
+  }
+
+  {
+    "patent": "ZDGB63",
+    "brand": "Citroen",
+    "model": "ZX",
+    "type": "Hatchback",
+    "year": 1999
+  }
+
+  {
+    "patent": "TTER99",
+    "brand": "McLaren",
+    "model": "P1",
+    "type": "Supercar",
+    "year": 2014
+  }

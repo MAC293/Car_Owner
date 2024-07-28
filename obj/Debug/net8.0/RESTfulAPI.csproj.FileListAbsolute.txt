@@ -1,0 +1,447 @@
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.csproj.AssemblyReference.cache
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.AssemblyInfoInputs.cache
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.AssemblyInfo.cs
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.csproj.CoreCompileInputs.cache
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\appsettings.json
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.exe
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.deps.json
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.runtimeconfig.json
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.pdb
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Humanizer.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\staticwebassets\msbuild.RESTfulAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.RESTfulAPI.props
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RESTfulAPI.props
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RESTfulAPI.props
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\scopedcss\bundle\RESTfulAPI.styles.css
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.csproj.Up2Date
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.dll
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\refint\RESTfulAPI.dll
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.pdb
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.genruntimeconfig.cache
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\ref\RESTfulAPI.dll
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.Properties.Resources.resources
+E:\Programming\RESTful API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.csproj.GenerateResource.cache
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Scripts\Requests.json
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+E:\Programming\RESTful API\RESTfulAPI\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\appsettings.json
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Scripts\Requests.json
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.exe
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.deps.json
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.runtimeconfig.json
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.pdb
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Humanizer.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\API\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.csproj.AssemblyReference.cache
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.Properties.Resources.resources
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.csproj.GenerateResource.cache
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.AssemblyInfoInputs.cache
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.AssemblyInfo.cs
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.csproj.CoreCompileInputs.cache
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\staticwebassets\msbuild.RESTfulAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.RESTfulAPI.props
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RESTfulAPI.props
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RESTfulAPI.props
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\scopedcss\bundle\RESTfulAPI.styles.css
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.csproj.Up2Date
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.dll
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\refint\RESTfulAPI.dll
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.pdb
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.genruntimeconfig.cache
+E:\Programming\API\RESTfulAPI\obj\Debug\net8.0\ref\RESTfulAPI.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\appsettings.json
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Scripts\Requests.json
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.exe
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.deps.json
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.runtimeconfig.json
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\RESTfulAPI.pdb
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Humanizer.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\API\RESTful\RESTfulAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.csproj.AssemblyReference.cache
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.Properties.Resources.resources
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.csproj.GenerateResource.cache
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.AssemblyInfoInputs.cache
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.AssemblyInfo.cs
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.csproj.CoreCompileInputs.cache
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\staticwebassets\msbuild.RESTfulAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.RESTfulAPI.props
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RESTfulAPI.props
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RESTfulAPI.props
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\scopedcss\bundle\RESTfulAPI.styles.css
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.csproj.Up2Date
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.dll
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\refint\RESTfulAPI.dll
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.pdb
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\RESTfulAPI.genruntimeconfig.cache
+E:\Programming\API\RESTful\RESTfulAPI\obj\Debug\net8.0\ref\RESTfulAPI.dll

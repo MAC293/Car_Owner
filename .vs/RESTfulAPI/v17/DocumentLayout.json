@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{880472A1-818D-409F-BC56-2FEB312AF67A}|RESTfulAPI.csproj|e:\\programming\\api\\first restful project\\restfulapi\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880472A1-818D-409F-BC56-2FEB312AF67A}|RESTfulAPI.csproj|solutionrelative:controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880472A1-818D-409F-BC56-2FEB312AF67A}|RESTfulAPI.csproj|e:\\programming\\api\\first restful project\\restfulapi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880472A1-818D-409F-BC56-2FEB312AF67A}|RESTfulAPI.csproj|solutionrelative:controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880472A1-818D-409F-BC56-2FEB312AF67A}|RESTfulAPI.csproj|e:\\programming\\api\\first restful project\\restfulapi\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880472A1-818D-409F-BC56-2FEB312AF67A}|RESTfulAPI.csproj|solutionrelative:services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880472A1-818D-409F-BC56-2FEB312AF67A}|RESTfulAPI.csproj|e:\\programming\\api\\first restful project\\restfulapi\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880472A1-818D-409F-BC56-2FEB312AF67A}|RESTfulAPI.csproj|solutionrelative:services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880472A1-818D-409F-BC56-2FEB312AF67A}|RESTfulAPI.csproj|e:\\programming\\api\\first restful project\\restfulapi\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880472A1-818D-409F-BC56-2FEB312AF67A}|RESTfulAPI.csproj|solutionrelative:services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880472A1-818D-409F-BC56-2FEB312AF67A}|RESTfulAPI.csproj|e:\\programming\\api\\first restful project\\restfulapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880472A1-818D-409F-BC56-2FEB312AF67A}|RESTfulAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarController.cs",
+              "ToolTip": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Controllers\\CarController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:30:31.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MemberController.cs",
+              "ToolTip": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Controllers\\MemberController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwGEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:30:30.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "Services\\CacheService.cs",
+              "ToolTip": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\Services\\CacheService.cs",
+              "RelativeToolTip": "Services\\CacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:30:25.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "Services\\MemberService.cs",
+              "ToolTip": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\Services\\MemberService.cs",
+              "RelativeToolTip": "Services\\MemberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:30:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "Services\\VehicleService.cs",
+              "ToolTip": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\Services\\VehicleService.cs",
+              "RelativeToolTip": "Services\\VehicleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:30:23.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Programming\\API\\First RESTful Project\\RESTfulAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:30:22.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
